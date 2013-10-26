@@ -1,0 +1,1 @@
+rsync --log-file=/path/to/rsync.log --progress --delete -avrhz /backup/source user@<ip>:/remote/path/

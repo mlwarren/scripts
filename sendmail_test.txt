@@ -1,0 +1,1 @@
+echo 'test email body'| mail -s test_email_subject user@domain.com
